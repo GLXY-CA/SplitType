@@ -1,6 +1,5 @@
 /**
  * SplitType
- * https://github.com/lukePeavey/SplitType
  * @version 0.3.4
  */
 
